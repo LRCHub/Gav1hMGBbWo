@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "抱きしめて",
+  "base_artist": "indigo la End",
+  "createdAt": "2026-02-20T13:49:05.716282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "抱きしめて (愛は夢のように)",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": false,
+      "path": "select/01_抱きしめて_(愛は夢のように)_Mayumi_Itsuwa.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "抱きしめて",
+      "artist": "五輪 真弓",
+      "has_synced": false,
+      "path": "select/02_抱きしめて_五輪_真弓.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dream On 抱きしめて",
+      "artist": "LINDBERG",
+      "has_synced": true,
+      "path": "select/03_Dream_On_抱きしめて_LINDBERG.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YES, 抱きしめて",
+      "artist": "KATSUMI",
+      "has_synced": false,
+      "path": "select/04_YES,_抱きしめて_KATSUMI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "抱きしめて",
+      "artist": "indigo la End",
+      "has_synced": true,
+      "path": "select/05_抱きしめて_indigo_la_End.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "即 抱きしめて",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/06_即_抱きしめて_°C-ute.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "即 抱きしめて (2012神聖なるVer.)",
+      "artist": "℃-ute",
+      "has_synced": true,
+      "path": "select/07_即_抱きしめて_(2012神聖なるVer.)_°C-ute.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "抱きしめて 抱きしめて",
+      "artist": "berryzkobo",
+      "has_synced": true,
+      "path": "select/08_抱きしめて_抱きしめて_berryzkobo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "抱きしめて",
+      "artist": "タイナカ彩智",
+      "has_synced": true,
+      "path": "select/09_抱きしめて_タイナカ彩智.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "抱きしめて (愛は夢のように)",
+      "artist": "五輪 真弓",
+      "has_synced": false,
+      "path": "select/10_抱きしめて_(愛は夢のように)_五輪_真弓.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "抱きしめて(拥抱日语版)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/11_抱きしめて(拥抱日语版)_五月天.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "抱きしめて",
+      "artist": "タイナカサチ",
+      "has_synced": true,
+      "path": "select/12_抱きしめて_タイナカサチ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "抱きしめて",
+      "artist": "五輪真弓",
+      "has_synced": false,
+      "path": "select/13_抱きしめて_五輪真弓.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "抱いて…抱きしめて",
+      "artist": "KIX-S",
+      "has_synced": false,
+      "path": "select/14_抱いて...抱きしめて_KIX-S.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "抱きしめて",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/15_抱きしめて_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "抱きしめて",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_抱きしめて_indigo_la_End.txt"
+    }
+  ]
+}
